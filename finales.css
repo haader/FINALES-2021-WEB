@@ -78,6 +78,12 @@ nav a,.noselección a{
     grid-template-columns: 100%;
 }
 
+.terminado{
+    color:rgb(243, 72, 4);
+    
+    text-decoration: none;
+}
+
 .contenidos h4{
     margin: 5px;
 }
